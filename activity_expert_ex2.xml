@@ -24,6 +24,11 @@
                 android:text="팔굽혀펴기(난이도: 상): 높은 곳에 다리 올리고 팔 굽혀 펴기"
                 android:textSize="16dp"
                 android:textColor="#0000ff"/>
+            <ImageView
+                android:id="@+id/imageView14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/footon_pushup" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

@@ -24,6 +24,11 @@
             android:text="팔굽혀펴기(푸쉬업) (난이도: 중): 맨 바닥에서 팔 굽혀펴기"
             android:textSize="16dp"
             android:textColor="#0000ff"/>
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/pushup" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

@@ -24,6 +24,13 @@
                 android:text="숄더프레스(머신) (난이도: 하)"
                 android:textSize="16dp"
                 android:textColor="#0000ff"/>
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/shoulder_press" />
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

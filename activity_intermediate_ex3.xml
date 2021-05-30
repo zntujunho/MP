@@ -24,6 +24,11 @@
                 android:text="풀업(난이도: 중): 풀업밴드를 이용한 풀업"
                 android:textSize="16dp"
                 android:textColor="#0000ff"/>
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/band_pullup" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

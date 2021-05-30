@@ -24,6 +24,16 @@
                 android:text="컬 프레스 - 덤벨 (난이도: 중)"
                 android:textSize="16dp"
                 android:textColor="#0000ff"/>
+            <ImageView
+                android:id="@+id/imageView10_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/dumbel_curl_press1" />
+            <ImageView
+                android:id="@+id/imageView10_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/dumbel_curl_press2" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

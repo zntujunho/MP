@@ -24,6 +24,11 @@
                 android:text="콘센트레이션 컬 - 덤벨 (난이도: 하)"
                 android:textSize="16dp"
                 android:textColor="#0000ff"/>
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/concentration_curl" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

@@ -24,6 +24,11 @@
                 android:text="아놀드 프레스(바벨, 난이도: 중)"
                 android:textSize="16dp"
                 android:textColor="#0000ff"/>
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/arnold_press" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
